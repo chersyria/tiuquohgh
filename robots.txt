@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aevoojito.techsquat.com/sitemap.xml
